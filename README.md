@@ -1,5 +1,3 @@
-# powerbi-store-revenue-demo
-Project to automate revenue reporting for 3 branches, source from Google Sheet, automatic real-time update, analysis by revenue source
 # 🧾 Power BI - Store Revenue Dashboard (Demo Project)
 
 This project showcases a simplified version of a daily automated revenue dashboard for 3 retail stores.
